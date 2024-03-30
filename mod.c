@@ -40,4 +40,3 @@ h->next-> = aux;
 *head = h->next;
 free(h);
 }
-
